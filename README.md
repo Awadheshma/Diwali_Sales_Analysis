@@ -10,13 +10,13 @@ Id, Name, Age, Gender, Marital Status, Occupation, Zone, State, Orders, Amount, 
  -Convereted the Amount column from Object to Integer.
 
 #### Data Pre-Processing
- - I have created age_group from age column in order to do some age related analysis.
+-I have created age_group from age column in order to do some age related analysis.
 
 ### EDA
 -I have performed exploratory data analysis and come up with some important findings which was useful for buisiness.
 
 ### Insights
--Women Shops almost twice than to a Man.
+- Women Shops almost twice than to a Man.
 -Women with age group of 25-45 contribute total of 43% of sale on Diwali.
 -Top 3 State that contributes most are: UP, Maharastra, Karnataka
 -Top 3 Category that contribute most are: Food, Apparel, Footwear
