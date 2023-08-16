@@ -2,7 +2,7 @@
 The project aimed to analyze the Q4 data of Skyline Plaza to identify the trends and purchase behaviour of the customer so that they can meet the need of customer expectation and also increase their overall sale.
 
 ### Dataset
-I have analyzed sales data of Q4 (Diwali Season). The dataset consisted of demographic, economic, such as:
+I have analyzed sales data of Q4 (Diwali Season). The dataset consisted of demographic, economic details such as:
 - Id, Name, Age, Gender, Marital Status, Occupation, Zone, State, Orders, Amount, Product_Category, Status, and unnamed
 #### Data Cleaning
  - I have to drop two complete null column "Status", "Unnamed" .
