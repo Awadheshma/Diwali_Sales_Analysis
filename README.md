@@ -3,7 +3,7 @@ The project aimed to analyze the Q4 data of Skyline Plaza to identify the trends
 
 ### Dataset
 I have analyzed sales data of Q4 (Diwali Season). The dataset consisted of demographic, economic, such as:
-Id, Name, Age, Gender, Marital Status, Occupation, Zone, State, Orders, Amount, Product_Category, Status, and unnamed
+- Id, Name, Age, Gender, Marital Status, Occupation, Zone, State, Orders, Amount, Product_Category, Status, and unnamed
 #### Data Cleaning
  - I have to drop two complete null column "Status", "Unnamed" .
  - Amount column containes NaN value so I have dropped those rows.
